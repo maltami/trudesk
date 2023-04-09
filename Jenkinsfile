@@ -4,7 +4,7 @@ pipeline {
     stage("build") {
       steps {
         echo 'building app...'
-        echo 'Jenkins push notifications GitHub...'        
+        echo 'Jenkins push notifications GitHub 2...'        
       }
     }
     
